@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StudentUser",
+            "request": "launch",
+            "mainClass": "jprg_ca1_assignment.StudentUser",
+            "preLaunchTask": "ant build"
+        }
+    ]
+}

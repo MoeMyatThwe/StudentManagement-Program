@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"jprg_ca1_assignment","l":"Class"},{"p":"jprg_ca1_assignment","l":"Module"},{"p":"jprg_ca1_assignment","l":"Student"},{"p":"jprg_ca1_assignment","l":"StudentManagement"},{"p":"jprg_ca1_assignment","l":"StudentUser"}];updateSearchResults();

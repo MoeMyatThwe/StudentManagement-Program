@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ant build",
+            "type": "shell",
+            "command": "ant",
+            "args": ["-f", "build.xml"],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$javac"],
+            "detail": "Generated task for building the project using Ant"
+        },
+        {
+            "label": "ant run",
+            "type": "shell",
+            "command": "ant",
+            "args": ["-f", "build.xml", "run"],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "problemMatcher": ["$javac"],
+            "detail": "Generated task for running the project using Ant"
+        }
+    ]
+}
